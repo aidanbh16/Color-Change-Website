@@ -1,2 +1,2 @@
 # Color-Change-Website
-A website I created to start dipping my toes into learning Javascript
+This is a website I created to start dipping my toes into learning Javascript. I decided looking into learning full stack development and have a personal portfolio website currently in the making. This website was a testing ground for me to start learning some Javascript to eventually implement into my website. I hope to have my website up within the next few months. Thank you for checking out my source code.
