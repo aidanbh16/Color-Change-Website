@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-color: rgb(44, 44, 44);
+    max-width: 1920px;
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+
+.side1 {
+    background-color: lightskyblue;
+    border: 5px solid black;
+    width: 10%;
+    height: 80vh;
+    position: absolute;
+    left: 23%;
+}
+
+.but1 {
+    font-size: 40px;
+    width: 73%;
+    height: 200px;
+    position: absolute;
+    left: 13.5%;
+    top: 35%;
+    border: 3px solid black;
+}
+
+.but1:hover {
+    background-color: rgb(220, 220, 220);
+}
+
+
+.middle {
+    margin: auto;
+    background-color: lightseagreen;
+    border: 5px solid black;
+    width: 34%;
+    height: 80vh;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-size: 6vh;
+    font-family: sans-serif;
+    text-decoration: underline;
+    text-decoration-color: white;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 5px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    padding-top: 17%;
+}
+
+.color {
+    margin: 106px auto 70px auto;
+    background-color: red;
+    width: 70%;
+    height: 195px;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.header {
+    margin: -60px auto;
+    color: white;
+    font-size: 40px;
+    font-family: sans-serif;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.but3 {
+    margin: -200px auto;
+    font-size: 2vw;
+    font-family: sans-serif;
+    width: 70%;
+    height: 100px;
+    border: 3px solid black;
+}
+
+.but3:hover {
+    background-color: rgb(220, 220, 220);
+}
+
+.side2 {
+    background-color: lightskyblue;
+    border: 5px solid black;
+    width: 10%;
+    height: 80vh;
+    position: absolute;
+    left: 67%;
+}
+
+.but2 {
+    font-size: 40px;
+    width: 73%;
+    height: 200px;
+    position: absolute;
+    left: 13.5%;
+    top: 35%;
+    border: 3px solid black;
+}
+
+.but2:hover {
+    background-color: rgb(220, 220, 220);
+}
+
